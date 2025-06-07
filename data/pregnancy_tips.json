@@ -1,0 +1,28 @@
+[
+  {
+    "week": 1,
+    "do": [
+      "Start taking prenatal vitamins",
+      "Eat a balanced diet",
+      "Stay hydrated"
+    ],
+    "dont": [
+      "Avoid alcohol and smoking",
+      "Don't take unprescribed medication"
+    ],
+    "tip": "Rest well and maintain a regular sleep schedule."
+  },
+  {
+    "week": 2,
+    "do": [
+      "Continue healthy eating",
+      "Gentle exercise like walking"
+    ],
+    "dont": [
+      "Avoid heavy lifting",
+      "Don't skip meals"
+    ],
+    "tip": "Schedule your first antenatal appointment."
+  }
+  // ... Continue for weeks 3-40 as needed
+]
