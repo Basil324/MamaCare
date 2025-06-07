@@ -1,0 +1,21 @@
+[
+  {
+    "question": {
+      "English": "What foods should I avoid during pregnancy?",
+      "Hausa": "Wadanne abinci zan guje yayin ciki?",
+      "Igbo": "Kedu nri m kwesiri izere n'oge ime?",
+      "Yoruba": "Awon ounje wo ni mo gbodo yago fun nigba oyun?",
+      "Pidgin": "Which food I no suppose chop when I dey belle?",
+      "Fulfulde": "Ko woni ndiyam mi waayi mo haabe nder ndiyam?"
+    },
+    "answer": {
+      "English": "Avoid raw meat, unpasteurized milk, alcohol, and limit caffeine.",
+      "Hausa": "Guji nama da ba a dafa ba, madara marar tsafta, giya, da shan kofi da yawa.",
+      "Igbo": "Zere anụ e ji esighi esi, mmiri ara ehi a naghị esi, mmanya, na caffeine karịrị akarị.",
+      "Yoruba": "Yago fun eran ti a ko dana daadaa, wara ti ko se, oti ati ki o ma mu kofi ju.",
+      "Pidgin": "No chop raw meat, raw milk, avoid alcohol. No take too much coffee.",
+      "Fulfulde": "Waayi ndiyam mo haabe, ndiyam mo ndiyam, waayi biye, teehi mo waayi kofi."
+    }
+  }
+  // ... Add more FAQs as needed
+]
