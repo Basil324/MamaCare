@@ -131,6 +131,8 @@ The project is licensed under the MIT License. All contributions are welcome und
 ## Credits
 
   3MTT
+
+  
   Darey.io
 
 ## Contact and Support
@@ -138,7 +140,7 @@ The project is licensed under the MIT License. All contributions are welcome und
 For questions, partnership, or technical support, reach out via:
 
 * **Email:** [ solobasil2004@gmail.com)
-* **GitHub:** github.com/basil324/MamaCareAI
+* **GitHub:**[ github.com/basil324/MamaCareAI0
 
 ---
 
